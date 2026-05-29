@@ -47,7 +47,7 @@ TARGET_LOOP_PERIOD = 20             # 20 milliseconds
 
 # other vars  <<<<<<<<<<<<<<<
 sitUpMS = 500                     # Millisecs
-sitUpSpeed = 500                  # Deg / seg
+sitUpSpeed = 500                  # Deg / sec
 hasSatUp = False
 #<<<<<<<<<<<<<<<<<<<<
 
